@@ -11,5 +11,5 @@
 
 ## My Projects:
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Soguilon/EDM-Tasks-Portfolio/blob/main/Midterm%20Lab%20Task%201/task1.md)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query]
+- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://github.com/Soguilon/EDM-Tasks-Portfolio/blob/main/Midterm%20Lab%20Task%202/task2.md)
 
