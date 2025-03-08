@@ -1,5 +1,5 @@
 # [Midterm Lab Task 1](https://github.com/user-attachments/files/19071685/Midterm.Lab.Task.1.xlsx)
-This [portfolio](https://github.com/Soguilon/EDM-V3/blob/ff801c8db9c605937c606d9dbc5e33f94576d7fd/excel1.md) demonstrates the process of data normalization and cleaning applied to a transactional database. The dataset consists of multiple related tables, each designed to improve data organization and eliminate redundancy.
+This portfolio demonstrates the process of data normalization and cleaning applied to a transactional database. The dataset consists of multiple related tables, each designed to improve data organization and eliminate redundancy.
 
 ## Step by Step Process
 Step 1:
