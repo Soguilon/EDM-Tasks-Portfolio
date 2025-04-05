@@ -3,7 +3,7 @@
   
 
 ## About me:
-### ![Image](https://github.com/user-attachments/assets/e904701f-1061-486d-99ce-27003d63a0f4)
+### ![Image](https://github.com/user-attachments/assets/9a3f15b3-c8ad-49f8-9366-5c7ac62bdc5c)
 - Hi I am Carl Asnef B. Soguilon, a student from CCA BSIS-I102 with a passion for exploring ideas and meeting new people. As an ENTJ, i enjoy logical thinking, planning ahead, and focusing on possibilities. I aspire to thrive in the IT industry and make meaningful impact in the field
 
   
