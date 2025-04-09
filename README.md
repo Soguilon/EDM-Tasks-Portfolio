@@ -12,8 +12,12 @@
 - High School: Graduated From Angeles City Science High School
 
 
-## My Projects:
+## My Projects In Mindterms:
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://soguilon.github.io/Midterm-Lab-Tasks-1/)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://soguilon.github.io/Midterm-Lab-Tasks-2/)
 - Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://soguilon.github.io/Midterm-Lab-Task-3/)
+
+## My Projects In Finals:
+- Finals Lab Task 1: [My SQL Basics](https://soguilon.github.io/Finals-Lab-Task-1/)
+- Finals Lab Task 2: [MySQL Database Creation](https://soguilon.github.io/Finals-Lab-Task-2/)
 
