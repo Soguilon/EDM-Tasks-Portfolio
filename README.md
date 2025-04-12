@@ -20,4 +20,4 @@
 ## My Projects In Finals:
 - Finals Lab Task 1: [My SQL Basics](https://soguilon.github.io/Finals-Lab-Task-1/)
 - Finals Lab Task 2: [MySQL Database Creation](https://soguilon.github.io/Finals-Lab-Task-2/)
-
+- Finals Lab Task 3: [Table Manipulation]()
