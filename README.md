@@ -21,4 +21,5 @@
 - Finals Lab Task 1: [My SQL Basics](https://soguilon.github.io/Finals-Lab-Task-1/)
 - Finals Lab Task 2: [MySQL Database Creation](https://soguilon.github.io/Finals-Lab-Task-2/)
 - Finals Lab Task 3: [Table Manipulation](https://soguilon.github.io/Finals-Lab-Task-3/)
-- Finals Lab Task 3.1: [Using MYSQL CLAUSE](https://soguilon.github.io/Finals-Lab-Task-3.1/)
+- Finals Lab Task 4: [Using MYSQL CLAUSE](https://soguilon.github.io/Finals-Lab-Task-3.1/)
+- Finals Lab Task 5: [Views, Stored Procedures and Functions](https://soguilon.github.io/Finals-Lab-Task-5/)
