@@ -23,3 +23,4 @@
 - Finals Lab Task 3: [Table Manipulation](https://soguilon.github.io/Finals-Lab-Task-3/)
 - Finals Lab Task 4: [Using MYSQL CLAUSE](https://soguilon.github.io/Finals-Lab-Task-3.1/)
 - Finals Lab Task 5: [Views, Stored Procedures and Functions](https://soguilon.github.io/Finals-Lab-Task-5/)
+- Finals Lab Task 6: [MongoDBCRUD](https://soguilon.github.io/Finals-Lab-Task-6/)
